@@ -40,7 +40,7 @@ ul.spread {
 }
 
 .beige-theme {
-    background-color: #f9f1e6;
+    background-color: #BDD0CB;
     color: black;    
 }
 
@@ -86,6 +86,7 @@ sub-font
     margin-bottom: 0.25rem;
     margin-top: 1rem;
     font-weight: 700;
+    text-align: center;
 }
 
 .body-text {
