@@ -18,7 +18,7 @@ body {
 
 ul.spread {
     padding-left: 0;
-    text-align: center;
+    text-align: left;
     margin-bottom: 0;
 }
 
@@ -73,11 +73,11 @@ sub-font
 
 
 .super-font, h1, h2, h3, .label + p {
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: 'Cutive Mono', monospace;
 }
 
 .sub-font, p, ul, li {
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .headline, h1 {
@@ -86,7 +86,7 @@ sub-font
     margin-bottom: 0.25rem;
     margin-top: 1rem;
     font-weight: 700;
-    text-align: center;
+    text-align: left;
 }
 
 .body-text {

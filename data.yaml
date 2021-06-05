@@ -2,11 +2,11 @@ name: Karthika Namboothiri
 bio: Data journalist.
 links:
   - target: mailto:k2karthika96@gmail.com
-    text: Email
+    text: Contact me
   - target: https://kaarnam.com
-    text: Homepage
+    text: Work
   - target: https://twitter.com/karthika96
-    text: '@karthika96'
+    text: Twitter
 pages:
   - type: gdoc
     title: In the most polluted county in the United States, not everyone wants to fix the problem
@@ -23,6 +23,6 @@ pages:
     filepath: content/sample-page.html
   - type: html
     title: this is the FOURTH project
-    # template: html_bootstrap
+    template: html_bootstrap
     slug: yet-another-project
     filepath: content/sample-page.html
