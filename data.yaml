@@ -22,7 +22,7 @@ pages:
     slug: third-project
     filepath: content/sample-page.html
   - type: html
-    title: this is the fourth project
+    title: this is the FOURTH project
     # template: html_bootstrap
     slug: yet-another-project
     filepath: content/sample-page.html
