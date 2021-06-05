@@ -25,4 +25,4 @@ pages:
     title: this is the FOURTH project
     template: html_bootstrap
     slug: yet-another-project
-    filepath: content/sample-page.html
+    filepath: content/NYC_payroll.html
