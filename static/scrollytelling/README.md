@@ -1,3 +1,1 @@
-Easy-peasy non-D3 examples of [scrollama.js](https://github.com/russellgoldenberg/scrollama), pared down from the original documentation examples.
-
-Take a peek at https://jsoma.github.io/simplified-scrollama-scrollytelling/
+While I'm fixing my bottle-jack portfolio uploading issue, please take a look at my **sticky-side.html** code. Thank you!!
