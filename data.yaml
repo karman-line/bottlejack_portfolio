@@ -18,9 +18,9 @@ pages:
     slug: Texas-cotton
     url: https://docs.google.com/document/d/1qa5dYl7hJtleL-oNkwsWfnZbYJX0tSifeN8C-dVVlYE/edit?usp=sharing
   - type: html
-    title: this is the third project
+    title: this is the scrollytelling project
     slug: third-project
-    filepath: content/sample-page.html
+    filepath: static/scrollytelling/sticky-side.html
   - type: html
     title: this is the FOURTH project
     template: html_bootstrap
